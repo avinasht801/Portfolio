@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who Am I?</h2>
           <p className='py-2 text-gray-600'>
-          I am a results-driven full-stack developer with a Master's degree in Computing Systems and expertise in web development and email development. I have experience in handling WordPress sites, building custom websites using ReactJS/NextJs and Tailwind CSS, and developing e-commerce solutions on platforms like BigCommerce. I am proficient in Next.js, ReactJS, JavaScript, and HTML5.
+          I am a results-driven full-stack developer with a Master&apos;s degree in Computing Systems and expertise in web development and email development. I have experience in handling WordPress sites, building custom websites using ReactJS/NextJs and Tailwind CSS, and developing e-commerce solutions on platforms like BigCommerce. I am proficient in Next.js, ReactJS, JavaScript, and HTML5.
           </p>
           <p className='py-2 text-gray-600'>
           With a strong background in Agile and Waterfall methodologies, I bring project management expertise in Kanban. I am skilled in tools such as Adobe XD, Git, and SQL. I have been recognized for my innovative projects, including a Chatbot and Workflow Management System. I possess strong problem-solving and communication skills and I am currently seeking web development or software engineering opportunities.

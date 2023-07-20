@@ -49,7 +49,7 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Results-driven full-stack developer with a Master's degree in Computing Systems and expertise in web
+          Results-driven full-stack developer with a Master&apos;s degree in Computing Systems and expertise in web
           development and email development. Experienced in handling WordPress sites, building custom websites
           using ReactJS/NextJs and Tailwind CSS, and developing e-commerce solutions on platforms like
           BigCommerce. Proficient in Next.js, ReactJS, JavaScript, and HTML5. Skilled in Agile and Waterfall
@@ -157,7 +157,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>IMPACD CIC</span>
-            <span className='px-2'>|</span><a href='https://impacd-cic.org.uk/' target='_blank'>impacd-cic.org.uk</a>
+            <span className='px-2'>|</span><a href='https://impacd-cic.org.uk/' target='_blank'  rel='noreferrer'>impacd-cic.org.uk</a>
           </p>
 
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
@@ -168,7 +168,7 @@ const resume = () => {
               Utilized PHP and Tailwind CSS extensively to build a custom WordPress theme.
             </li>
             <li>
-              Played a key role in building foundational components that formed the basis of the organization's
+              Played a key role in building foundational components that formed the basis of the organization&apos;s
               WordPress vanilla theme.
             </li>
             <li>

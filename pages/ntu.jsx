@@ -30,7 +30,7 @@ const property = () => {
             Chatbot was designed and implemented to help University&apos;s computer department students as a guide throughout the campus.
             It also has some emergency features and maps connectivity.
             Developed in python using chatterbot library and frontend was developed using JavaScript.
-            Received the 'Best project of the year' award for this project from the university along with a monetary award.
+            Received the &apos;Best project of the year&apos; award for this project from the university along with a monetary award.
             Received Distinction for this application.
           </p>
           <a
