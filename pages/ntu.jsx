@@ -27,7 +27,7 @@ const property = () => {
         
           <h2 className='pb-4'>Overview</h2>
           <p>
-            Chatbot was designed and implemented to help University’s computer department students as a guide throughout the campus.
+            Chatbot was designed and implemented to help University&apos;s computer department students as a guide throughout the campus.
             It also has some emergency features and maps connectivity.
             Developed in python using chatterbot library and frontend was developed using JavaScript.
             Received the 'Best project of the year' award for this project from the university along with a monetary award.
