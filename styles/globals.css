@@ -37,11 +37,14 @@ html {
 }
 
 .bgimage {
-  background-image: url('../public/Avinash.jpg');
-  background-position: left; 
   
- 
+  background-image: url('../public/Avinash.jpg');
+  background-position: center; 
+  background-repeat: no-repeat;
+  opacity: 0.2;
+ @apply w-full;
 }
-.noopacity{
-  opacity: 1;
+
+.heroheight{
+  height: clamp(10rem, 100vh, 60rem);
 }

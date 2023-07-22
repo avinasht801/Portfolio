@@ -6,18 +6,20 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 const Main = () => {
   return (
-    <div id='home' className='w-full h-screen text-center bgimage'>
-      <div className=' w-full h-full pr-0 md:pr-2 flex justify-end items-center noopacity text-white'>
-        <div>
+    <div id='home' className='w-full h-screen text-center bg-[#0f0f0f]'>
+      <div className=' w-full h-full pr-0 md:pr-2 flex flex-col justify-center items-center  text-white'>
+        <div className='bgimage heroheight relative'>
+        </div>
+        <div className='absolute  mt-10'>
           <p className='uppercase text-sm tracking-widest'>
-          Join me in creating something remarkable together
+            Join me in creating something remarkable together
           </p>
           <h1 className='py-4 text-gray-700'>
             Hi, I&apos;m <span className='text-[#5651e5]'> Avinash Tiwari</span>,
           </h1>
           <h1 className='py-2 '><span className='text-gray-600'>A</span> Web Developer</h1>
-          <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-          My primary objective is to create responsive front-end web applications that seamlessly integrate with powerful back-end technologies.
+          <p className='py-4 text-gray-400 sm:max-w-[70%] m-auto'>
+            My primary objective is to create responsive front-end web applications that seamlessly integrate with powerful back-end technologies.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
