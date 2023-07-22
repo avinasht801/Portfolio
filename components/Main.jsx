@@ -10,7 +10,7 @@ const Main = () => {
       <div className=' w-full h-full pr-0 md:pr-2 flex flex-col justify-center items-center  text-white'>
         <div className='bgimage heroheight relative'>
         </div>
-        <div className='absolute  mt-10'>
+        <div className='absolute md:mt-11 mx-9'>
           <p className='uppercase text-sm tracking-widest'>
             Join me in creating something remarkable together
           </p>

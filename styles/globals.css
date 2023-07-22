@@ -46,5 +46,5 @@ html {
 }
 
 .heroheight{
-  height: clamp(10rem, 100vh, 60rem);
+  height: clamp(50rem, 100vh, 60rem);
 }
