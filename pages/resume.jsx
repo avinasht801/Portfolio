@@ -233,7 +233,7 @@ const resume = () => {
           </ul>
         </div>
         <div className='flex justify-center mb-5'>
-          <button className='p-5 '>Download My Resume</button>
+         <a href='https://drive.google.com/u/0/uc?id=1chyRAXUP7HB-51JMiv7xSrq7GoUsWNr6&export=download'><button className='p-5 '>Download My Resume</button></a>
         </div>
       </div>
     </>
