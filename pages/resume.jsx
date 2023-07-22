@@ -157,7 +157,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>IMPACD CIC</span>
-            <span className='px-2'>|</span><a href='https://impacd-cic.org.uk/' target='_blank'  rel='noreferrer'>impacd-cic.org.uk</a>
+            <span className='px-2'>|</span><a href='https://impacd-cic.org.uk/' target='_blank' rel='noreferrer'>impacd-cic.org.uk</a>
           </p>
 
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
