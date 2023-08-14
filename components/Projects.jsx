@@ -5,6 +5,7 @@ import ntuImg from '../public/assets/projects/ntu.jpg';
 import wfmImg from '../public/assets/projects/wfm.jpg'
 import tramImg from '../public/assets/projects/tram.jpg'
 import encryptImg from '../public/assets/projects/encrypt.jpg'
+import WeatherImg from '../public/assets/projects/weather.jpg'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -22,6 +23,13 @@ const Projects = () => {
             projectUrl='/ntu'
             tech='Python and Javascript'
           />
+            <ProjectItem
+          title='Weather Application'
+          backgroundImg={WeatherImg}
+          projectUrl='/weather'
+          tech='JavaScript'
+
+        />
           <ProjectItem
             title='Workflow Management System'
             backgroundImg={wfmImg}
@@ -42,7 +50,8 @@ const Projects = () => {
             projectUrl='/encrypt'
             tech='Java and MySql'
 
-          />
+          /> 
+        
         </div>
         <p className='pt-8'>About this Website: Built in NextJs with Tailwind CSS</p>
       </div>
